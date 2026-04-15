@@ -1,2 +1,2 @@
 # AI-Doubt-Solver-Chatbot
-Chatpot
+Chatbot
