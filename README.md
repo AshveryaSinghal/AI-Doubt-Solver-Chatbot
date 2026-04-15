@@ -21,15 +21,7 @@ An AI-powered full-stack chatbot that helps users solve academic queries in real
 - **AI Model:** Ollama (phi3:mini)  
 - **Other Tools:** Fetch API, REST APIs  
 
----
 
-## 📂 Project Structure
-├── index.html # Frontend UI
-├── style.css # Styling
-├── app.js # Frontend logic
-├── server.js # Backend server
-├── package.json # Dependencies
-└── .gitignore # Ignored files
 
 
 
